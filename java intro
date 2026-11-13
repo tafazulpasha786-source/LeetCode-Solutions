@@ -1,0 +1,14 @@
+import java.util.*;
+
+public class Main {
+  // print the mean of 6 numbers
+    public static void main()
+      scanner sc = new scanner(system.in);
+      int num1, num2, num3;
+      num1 = sc.nextInt();
+      num2 = sc.nextInt();
+      num3 = sc.nextInt();
+      system.out.println((num1 + num2 + num3) / 3.0);
+
+    }
+}
